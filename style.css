@@ -4,3 +4,8 @@
     font-weight: 500;
     
 }
+
+.imagesize {
+    width: 400px;
+    height: auto;
+}
